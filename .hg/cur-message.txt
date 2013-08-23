@@ -1,0 +1,1 @@
+Initial commit of the CHIP8 emulator.  Probably some bugs left :D
